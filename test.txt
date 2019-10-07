@@ -24,3 +24,9 @@ git pull <name repo> master (—allow-unrelated-histories if issues)
 
 To work together 
 https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
+
+
+To work together 
+https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
+
+Stop at step 3, then modify files, git add ., git commit, git push -u origin master and then on github online click on pull request under clone or download, after that the other contributor has to approve on github 
