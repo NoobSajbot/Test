@@ -1,1 +1,26 @@
-Hello
+                                                                               
+create repo online
+
+
+in local folder
+only first time git init
+git remote add <name repo> <url>
+
+
+After update local files
+git add .
+git commit -m “message”
+
+
+To upload
+git push <name repo> master 
+
+
+To download 
+git pull <name repo> master (—allow-unrelated-histories if issues)
+
+
+
+
+To work together 
+https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
